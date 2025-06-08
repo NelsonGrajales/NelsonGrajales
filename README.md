@@ -1,6 +1,6 @@
 ![Nelson Banner](https://github.com/NelsonGrajales/NelsonGrajales/blob/main/assets/Banner.jpeg)
 
-<img alt="Night Coding" width='40' align="left"/><h2>👋 Hey there! I'm Nelson</h2>
+<h2>👋 Hey there! I'm Nelson</h2>
 
 ### 🛠 &nbsp;Tech Stack
 
