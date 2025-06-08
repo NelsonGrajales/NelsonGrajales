@@ -29,12 +29,9 @@ I'm a Linux fan. <br/>
 ### 🤝🏻 &nbsp;Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nelson.grx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/tu_usuario/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/nelson-grx/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=fff)](https://mail.google.com/)
 
-
-![LeetCode stats](https://leetcode-badge.vercel.app/api?username=nelson-grx&icon=LeetCode&theme=dark&style=for-the-badge)
-<a href="https://www.leetcode.com/nelson-grx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nelson-grx" height="30" width="40" /></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGrajales&show_icons=true&theme=dark)
