@@ -33,3 +33,4 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGrajales&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonGrajales&hide_progress=true)
