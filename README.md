@@ -34,7 +34,7 @@ I'm a Linux fan. <br/>
 
 
 ![LeetCode stats](https://leetcode-badge.vercel.app/api?username=nelson-grx&icon=LeetCode&theme=dark&style=for-the-badge)
-
+<a href="https://www.leetcode.com/nelson-grx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nelson-grx" height="30" width="40" /></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGrajales&show_icons=true&theme=dark)
