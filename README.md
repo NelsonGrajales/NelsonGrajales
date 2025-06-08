@@ -32,4 +32,4 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGrajales&show_icons=true&theme=Dark)
+![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonGrajales&show_icons=true&theme=dark)
