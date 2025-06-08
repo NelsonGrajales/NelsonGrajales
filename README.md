@@ -33,7 +33,7 @@ I'm a Linux fan. <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=fff)](https://mail.google.com/)
 
 
-![LeetCode stats](https://leetcode-badge.vercel.app/api?username=mipy&icon=LeetCode&theme=dark&style=for-the-badge)
+![LeetCode stats](https://leetcode-badge.vercel.app/api?username=nelson-grx&icon=LeetCode&theme=dark&style=for-the-badge)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
