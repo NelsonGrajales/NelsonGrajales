@@ -1,4 +1,4 @@
-![Nelson Banner](https://raw.githubusercontent.com/NelsonGrajales/NelsonGrajales/main/assets/banner.jpeg)
+![Nelson Banner](https://github.com/NelsonGrajales/NelsonGrajales/blob/main/assets/Banner.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nelson</h2>
 
