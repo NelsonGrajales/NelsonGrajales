@@ -29,3 +29,13 @@
 
 
 ![LeetCode stats](https://leetcode-badge.vercel.app/api?username=mipy&icon=LeetCode&theme=dark&style=for-the-badge)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/NelsonGrajaels">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NelsonGrajales&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NelsonGrajales&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
