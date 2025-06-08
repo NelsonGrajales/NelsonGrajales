@@ -18,5 +18,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nelson.grx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)
 
-<a href="https://www.leetcode.com/dfbvsadf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dfbvsadf" height="30" width="40" /></a>
-</p>
+![LeetCode stats](https://leetcode-badge.vercel.app/api?username=mipy&icon=LeetCode&theme=dark&style=for-the-badge)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/tu_usuario/)
